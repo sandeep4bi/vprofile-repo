@@ -1,4 +1,4 @@
-package com.visualpathit.account.controller;
+package com.sandeepit.account.controller;
 
 import java.io.IOException;
 import java.util.List;
@@ -23,9 +23,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.google.gson.Gson;
-import com.visualpathit.account.model.User;
-import com.visualpathit.account.service.UserService;
-import com.visualpathit.account.utils.ElasticsearchUtil;
+import com.sandeepit.account.model.User;
+import com.sandeepit.account.service.UserService;
+import com.sandeepit.account.utils.ElasticsearchUtil;
 
 import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 

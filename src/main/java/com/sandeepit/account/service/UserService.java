@@ -1,8 +1,8 @@
-package com.visualpathit.account.service;
+package com.sandeepit.account.service;
 
 import java.util.List;
 
-import com.visualpathit.account.model.User;
+import com.sandeepit.account.model.User;
 
 /** {@author waheedk}!*/
 public interface UserService {

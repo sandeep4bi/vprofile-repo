@@ -1,4 +1,4 @@
-package com.visualpathit.account.controller;
+package com.sandeepit.account.controller;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.visualpathit.account.model.User;
-import com.visualpathit.account.service.UserService;
+import com.sandeepit.account.model.User;
+import com.sandeepit.account.service.UserService;
 
 @Controller
 public class FileUploadController {

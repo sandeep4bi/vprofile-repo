@@ -1,11 +1,11 @@
-package com.visualpathit.account.controller;
+package com.sandeepit.account.controller;
 
-import com.visualpathit.account.model.User;
-import com.visualpathit.account.service.ProducerService;
-import com.visualpathit.account.service.SecurityService;
-import com.visualpathit.account.service.UserService;
-import com.visualpathit.account.utils.MemcachedUtils;
-import com.visualpathit.account.validator.UserValidator;
+import com.sandeepit.account.model.User;
+import com.sandeepit.account.service.ProducerService;
+import com.sandeepit.account.service.SecurityService;
+import com.sandeepit.account.service.UserService;
+import com.sandeepit.account.utils.MemcachedUtils;
+import com.sandeepit.account.validator.UserValidator;
 
 import java.util.List;
 import java.util.UUID;

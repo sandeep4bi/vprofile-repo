@@ -1,4 +1,4 @@
-package com.visualpathit.account.service;
+package com.sandeepit.account.service;
 
 public interface ProducerService {
 
